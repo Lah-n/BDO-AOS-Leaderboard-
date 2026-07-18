@@ -4,7 +4,7 @@ A leaderboard archive for **Black Desert Online's Arena of Solare** (1v1 ranked 
 
 ## Live Site
 
-[[[https://yourusername.github.io/bdo-ao](https://bdo-aos.com/)s]](https://bdo-aos.com/)
+(https://bdo-aos.com/)
 ## Features
 
 - Season standings for NA and EU (Seasons 1–8)
